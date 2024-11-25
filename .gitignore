@@ -1,0 +1,9 @@
+.cache
+cache
+.puppeteer
+build
+coverage
+dist
+testApp/build
+node_modules
+node_modules.zip
